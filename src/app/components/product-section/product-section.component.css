@@ -1,0 +1,9 @@
+.product-section {
+    font-family: Arial, sans-serif;
+    background-color: #ffcccc !important;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 15px;
+}

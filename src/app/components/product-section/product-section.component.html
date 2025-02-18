@@ -1,0 +1,6 @@
+<section class="product-section">
+    <app-product *ngFor="let prod of products"
+        [image]="prod.image"
+        [name]="prod.name"
+        [price]="prod.price"></app-product>
+</section>
